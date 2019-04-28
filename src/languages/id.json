@@ -1,0 +1,16 @@
+{
+    "id": "",
+    "name": "Nama",
+    "status": "Status",
+    "latitude": "Garis Lintang",
+    "longitude": "Garis Bujur",
+    "sensing_at": "Waktu",
+    "mac_address": "Nomor Perangkat",
+    "temperature": "Suhu (oC)",
+    "ppm": "Total Dissolved Solid (ppm)",
+    "ph": "Derajat Keasaman (pH)",
+    "mv": "Oxidation Reduction Potential (mV)",
+    "ms_cm": "Electrical Conductivity (ms/cm)",
+    "mg_l": "Dissolved Oxygen (mg/L)",
+    "nt_u": "Turbidity (NTU)"
+}

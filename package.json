@@ -1,0 +1,50 @@
+{
+  "name": "dragon-fruit-expert-system-fe",
+  "version": "0.1.0",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Dhian Trisna Alyusi",
+      "email": "dhian.alyusi@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chart.js": "^2.8.0",
+    "export-to-csv": "^0.2.1",
+    "fixed-data-table-2": "^0.8.21",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "pigeon-maps": "^0.11.11",
+    "pigeon-marker": "^0.3.4",
+    "pigeon-overlay": "^0.2.3",
+    "react": "^16.8.6",
+    "react-cookie": "^3.1.2",
+    "react-csv": "^1.1.1",
+    "react-datetime": "^2.16.3",
+    "react-datetime-range-picker": "^2.0.0",
+    "react-dom": "^16.8.6",
+    "react-redux": "^6.0.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "sweetalert-react": "^0.4.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
