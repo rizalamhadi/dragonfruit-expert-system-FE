@@ -1,6 +1,6 @@
 # Frontend Dragon Fruit Expert System
 
-Frontend for https://gitlab.com/dhianalyusi/dragon-fruit-expert-system
+Frontend for https://github.com/rizalamhadi/dragonfruit-expert-system
 
 ## Available Scripts
 
